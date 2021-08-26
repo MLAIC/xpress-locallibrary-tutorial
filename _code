@@ -1,0 +1,8 @@
+http://localhost:3000/
+SET DEBUG=express-locallibrary-tutorial:* & npm run devstart
+
+waxion
+waxion1925
+mongodb+srv://waxion:waxion1925@cluster0.t5xfe.mongodb.net/local_library?retryWrites=true&w=majority
+
+
